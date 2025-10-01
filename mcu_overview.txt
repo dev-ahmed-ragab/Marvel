@@ -1,3 +1,7 @@
 MCU Overview (Iron Man to Infinity War)
 The Marvel Cinematic Universe (MCU) started with Iron Man in 2008 and built up to Avengers: Infinity War in 2018.
+<<<<<<< HEAD
 This repo covers key films with details
+=======
+This repo covers key films with details.
+>>>>>>> b5ecdf10e0fcec0058c6ef62dc7f30579f72d898
